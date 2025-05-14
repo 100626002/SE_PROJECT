@@ -1,0 +1,7 @@
+# Ignore Python/Streamlit cache & virtual environment
+__pycache__/
+.venv/
+.env/
+*.pyc
+.streamlit/
+*.DS_Store
